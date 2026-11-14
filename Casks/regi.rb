@@ -1,6 +1,6 @@
 cask "regi" do
   version "0.1.0"
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000" # placeholder until the first release
+  sha256 "ff90d0b0c4607ffdf9d4434409411e91102b41bcea04747954aaa5af458f06bb"
 
   url "https://github.com/mcuelenaere/regi/releases/download/v#{version}/Regi.dmg"
   name "Regi"
